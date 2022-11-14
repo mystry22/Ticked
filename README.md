@@ -1,1 +1,2 @@
-# Ticked
+# Ticked App
+## Team Ruler
